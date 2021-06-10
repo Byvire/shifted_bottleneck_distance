@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+
+"""Here be dragons. Some of this stuff is used, and some was just for fun. Utility library."""
+
 import abc
 import functools
 import collections
